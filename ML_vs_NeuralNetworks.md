@@ -7,6 +7,7 @@ __Neural Networks and Deep Learning:__
 Neural networks, particularly deep learning models, consist of multiple layers that automatically learn hierarchical representations of data. This architecture enables them to model complex, non-linear relationships without explicit feature engineering. Deep learning excels in processing unstructured data such as images, text, and audio.
 
 __Key Differences Between Traditional Machine Learning and Neural Networks__
+
 __1.	Feature Engineering:__
 
 Traditional machine learning algorithms heavily rely on manual feature engineering. This means that domain experts must identify and select the most relevant features from the data before feeding them into the model. In contrast, neural networks, especially deep learning models, are capable of automatically learning important features directly from raw data without manual intervention.
