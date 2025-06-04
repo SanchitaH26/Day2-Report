@@ -32,11 +32,16 @@ __Case Study: Random Forest vs. Deep Neural Network in Malware Detection__
 A study compared the performance of a traditional Random Forest (RF) algorithm with Deep Neural Networks (DNNs) of varying depths (2, 4, and 7 layers) for malware classification. The findings indicated that the RF algorithm outperformed the DNNs across different feature sets, highlighting that traditional ML can be more effective in certain scenarios, especially when data is limited or well-structured.
 
 __Scenarios Where Deep Learning Offers Significant Advantages__
-1.	Processing Unstructured Data: Deep learning models, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), are adept at handling unstructured data like images, audio, and text, making them ideal for tasks like image recognition, speech processing, and natural language understanding.
-2.	Automated Feature Extraction: Unlike traditional ML, deep learning models automatically learn relevant features from raw data, reducing the need for manual intervention and allowing for the discovery of complex patterns.
+__1.	Processing Unstructured Data:__
+Deep learning models, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), are adept at handling unstructured data like images, audio, and text, making them ideal for tasks like image recognition, speech processing, and natural language understanding.
 
-3.	Scalability with Large Datasets: Deep learning models improve as the size of the training data increases, making them suitable for applications where vast amounts of data are available.
+__2.	Automated Feature Extraction:__
+Unlike traditional ML, deep learning models automatically learn relevant features from raw data, reducing the need for manual intervention and allowing for the discovery of complex patterns.
+
+__3.	Scalability with Large Datasets:__
+Deep learning models improve as the size of the training data increases, making them suitable for applications where vast amounts of data are available.
 
 __Conclusion__
+
 While traditional machine learning algorithms are effective for structured data and offer interpretability with lower computational requirements, deep learning models provide superior performance in handling unstructured data, automating feature extraction, and scaling with large datasets. The choice between traditional ML and deep learning should be guided by the specific problem domain, data characteristics, and resource availability.
 
