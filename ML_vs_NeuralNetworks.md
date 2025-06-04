@@ -10,12 +10,15 @@ __Key Differences Between Traditional Machine Learning and Neural Networks__
 __1.	Feature Engineering:__
 
 Traditional machine learning algorithms heavily rely on manual feature engineering. This means that domain experts must identify and select the most relevant features from the data before feeding them into the model. In contrast, neural networks, especially deep learning models, are capable of automatically learning important features directly from raw data without manual intervention.
+
 __2.	Data Requirements:__
 
 Traditional ML models can perform well even with smaller datasets, as long as the features are well-chosen. Neural networks, however, typically require large amounts of data to achieve good performance, because they learn features from scratch and need extensive examples to generalize well.
+
 __3.	Model Complexity:__
 
 Traditional ML models, such as Decision Trees, Support Vector Machines, or Logistic Regression, are usually simpler and easier to understand. Neural networks involve many layers and nodes, making them more complex and harder to interpret.
+
 __4.	Computational Resources:__
 
 Training traditional ML models usually requires less computational power and can often be done on a standard computer. Deep learning models, on the other hand, require significantly more computational resources, often needing GPUs or TPUs for efficient training due to the large number of parameters.
